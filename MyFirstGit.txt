@@ -1,1 +1,3 @@
-Git is VeryGood
+Git is SuperGood
+
+and this is my change
