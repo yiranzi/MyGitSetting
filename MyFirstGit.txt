@@ -1,3 +1,5 @@
 Git is SuperGood
 
-and this is my change
+and this is my chANge
+
+this third! 
