@@ -1,0 +1,20 @@
+[user]
+	email = 570932296@qq.com
+	name = yiranzi
+[diff]
+[difftool "bc3"]
+	path = D:\\Program Files\\Beyond Compare 4\\BCompare.exe
+[difftool "bc3"]
+	path = D:\\Program Files\\Beyond Compare 4\\BCompare.exe
+[merge]
+	tool = bc3
+[mergetool "bc3"]
+	path = D:\\Program Files\\Beyond Compare 4\\BCompare.exe
+[gui]
+	recentrepo = D:/mygit
+[core]
+	autocrlf = false
+	excludesfile = C:/Users/sun10/.gitignore_global
+[alias]
+	st = status
+	orig = remote add origin git@github.com:yiranzi/Java163Class.git
